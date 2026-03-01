@@ -1,8 +1,11 @@
 # vibebeats
-little web music toy
+
+Web-based music toy - beat sequencer and synth playground
+
+[![vibebeats screenshot](https://tront.xyz/img/vibebeats.png)](https://tront.xyz/vibebeats/)
 
 ---
 
-**[Try it live →](https://tront.xyz/vibebeats/)**
+[Try it live ->](https://tront.xyz/vibebeats/)
 
-Built by [Trent (Tront) Sterling](https://tront.xyz) · [Games Portfolio](https://tront.xyz/games/) · [Discord](https://tront.xyz/discord/)
+Built by [Trent (Tront) Sterling](https://tront.xyz) · [Games Portfolio](https://tront.xyz/games) · [Discord](https://tront.xyz/discord/)
