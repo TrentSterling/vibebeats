@@ -1,0 +1,25 @@
+{
+  "repository": "vibebeats",
+  "baseline": "5eeb5ed0292eb3985e45a035a8f9d5cfaec10bdc",
+  "sharedRevision": "83dbfb4d8241501012c5ec22be49d79f28ccf6b7",
+  "javascriptSha256": "78e5f1cd0ab28f5361c445cecf6d539664d6ef5a39ceedb5228e2bfca5501bed",
+  "cssSha256": "70723556209736cc1d9e8dff2aa2fb5e68157d6ab0de2983406376baad85a8d0",
+  "bio": "<p>VibeBeats is a small music toy in the browser: click around, build a pattern, let it loop. No accounts, no saving, just a few minutes of noise.</p><p>One page, no install. By Tront (Trent Sterling), who also built the lo-fi generator next door.</p>",
+  "title": "VibeBeats by Tront",
+  "list": "<li><a href=\"https://tront.xyz/vibepong/\">VibePong</a>: Hyper-stylised CPU versus CPU Pong with dynamic physics and powerups.</li><li><a href=\"https://tront.xyz/vibeprime/\">VibePrime</a>: Educational prime number search and sieve visualiser.</li>",
+  "hub": "<a href=\"https://tront.xyz/games/\">All games and tools</a> &middot; <a href=\"https://tront.xyz/blog/\">Devlog</a> &middot; <a href=\"https://tront.xyz/discord/\">Discord</a> &middot; <a href=\"https://github.com/TrentSterling/vibebeats\">Source on GitHub</a> &middot; <a href=\"https://tront.xyz/\">tront.xyz</a>",
+  "jsonLd": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"SoftwareApplication\", \"name\": \"VibeBeats\", \"alternateName\": [\"VibeBeats by Tront\"], \"url\": \"https://tront.xyz/vibebeats/\", \"description\": \"A little web music toy.\", \"author\": {\"@type\": \"Person\", \"name\": \"Trent Sterling\", \"alternateName\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"isAccessibleForFree\": true, \"offers\": {\"@type\": \"Offer\", \"price\": \"0\", \"priceCurrency\": \"USD\"}, \"applicationCategory\": \"DeveloperApplication\", \"operatingSystem\": \"Web browser\"}</script>",
+  "scripts": [
+    "dd90d93a5b1cffb8fc5b6108be6a0583a6efbbd12f7c52687a0377fef5a73c2f",
+    "0cae8b3b838598e524d5e81348fce8214277cc83eb57c1d898c5efd0754b6d9e",
+    "ed6ea3f711077af78421a7a05ed45f8c9c56fc803b19b883e6a61e05d1e89dcf"
+  ],
+  "styles": [
+    "cf951707f7bdbdaeeab02ecea573bf2bd50deaa71944db6fec568da1a4ff40f9"
+  ],
+  "videos": [],
+  "surfaceAttributes": [
+    "id=\"sequencer-grid\""
+  ],
+  "sharedMerge": "5c22da598774e04d2bc854850a8e72b3a7fdb66f"
+}
